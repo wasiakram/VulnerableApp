@@ -45,7 +45,7 @@ Get the IP address of the docker container
  docker inspect -f "{{ .NetworkSettings.Networks.nat.IPAddress }}" <<docker image name>>
 ```
 
-access the IP address. then you can see the website. 
+access the IP address with your browser. then you can see the website. 
 
 
 
