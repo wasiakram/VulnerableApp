@@ -1,5 +1,7 @@
 # VulnerableApp
 
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=TsuyoshiUshio_VulnerableApp&metric=alert_status)](https://sonarcloud.io/dashboard?id=TsuyoshiUshio_VulnerableApp)
+
 This application is created for testing the security scan for .NET. Also this repo include a Dockerfile for Windows Container.
 
 .NET Framework 4.5 with downgrading to the ASP.NET MVC 5.1 nuget package. It includes vulnerability of this. 
